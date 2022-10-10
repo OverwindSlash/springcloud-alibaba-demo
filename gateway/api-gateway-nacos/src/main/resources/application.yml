@@ -1,0 +1,27 @@
+server:
+  port: 9000
+spring:
+  main:
+    web-application-type: reactive
+  application:
+    name: api-gateway
+  cloud:
+    nacos:
+      discovery:
+        server-addr: 127.0.0.1:8848
+    gateway:
+      discovery:
+        locator:
+          enabled: true # 让gateway可以发现nacos中的微服务
+      routes:
+        - id: product_route # 路由的名字
+          uri: lb://product-service # lb指的是从nacos中按照名称获取微服务,并遵循负载均衡策略
+          predicates:
+            - Path=/product-serv/** # 符合这个规定的才进行1转发
+          filters:
+            - StripPrefix=1 # 将第一层去掉
+            - SetStatus=2000 # 这里使用内置的过滤器，修改返回状态
+
+logging:
+  level:
+    org.springframework.cloud.gateway: trace

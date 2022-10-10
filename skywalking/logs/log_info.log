@@ -1,0 +1,278 @@
+2022-10-10 00:01:03.158 [main] INFO  com.example.servicea.ServiceAApplication - Starting ServiceAApplication using Java 1.8.0_271 on OverwinddeMacBook-Pro.local with PID 41588 (/Volumes/Data/Workspace/lab/springcloud-alibaba-demo/skywalking/ServiceA/target/classes started by overwind in /Volumes/Data/Workspace/lab/springcloud-alibaba-demo)
+2022-10-10 00:01:03.164 [main] INFO  com.example.servicea.ServiceAApplication - No active profile set, falling back to 1 default profile: "default"
+2022-10-10 00:01:04.333 [main] INFO  o.springframework.cloud.context.scope.GenericScope - BeanFactory id=dcd2cf22-34f6-35da-8b4d-3fd5faca3420
+2022-10-10 00:01:04.835 [main] INFO  o.s.boot.web.embedded.tomcat.TomcatWebServer - Tomcat initialized with port(s): 8080 (http)
+2022-10-10 00:01:04.851 [main] INFO  org.apache.coyote.http11.Http11NioProtocol - Initializing ProtocolHandler ["http-nio-8080"]
+2022-10-10 00:01:04.853 [main] INFO  org.apache.catalina.core.StandardService - Starting service [Tomcat]
+2022-10-10 00:01:04.853 [main] INFO  org.apache.catalina.core.StandardEngine - Starting Servlet engine: [Apache Tomcat/9.0.65]
+2022-10-10 00:01:04.984 [main] INFO  o.a.c.core.ContainerBase.[Tomcat].[localhost].[/] - Initializing Spring embedded WebApplicationContext
+2022-10-10 00:01:04.984 [main] INFO  o.s.b.w.s.c.ServletWebServerApplicationContext - Root WebApplicationContext: initialization completed in 1699 ms
+2022-10-10 00:01:06.691 [main] INFO  org.apache.coyote.http11.Http11NioProtocol - Starting ProtocolHandler ["http-nio-8080"]
+2022-10-10 00:01:06.878 [main] INFO  o.s.boot.web.embedded.tomcat.TomcatWebServer - Tomcat started on port(s): 8080 (http) with context path ''
+2022-10-10 00:01:06.919 [main] INFO  com.example.servicea.ServiceAApplication - Started ServiceAApplication in 5.113 seconds (JVM running for 16.107)
+2022-10-10 00:01:22.487 [http-nio-8080-exec-1] INFO  o.a.c.core.ContainerBase.[Tomcat].[localhost].[/] - Initializing Spring DispatcherServlet 'dispatcherServlet'
+2022-10-10 00:01:22.488 [http-nio-8080-exec-1] INFO  org.springframework.web.servlet.DispatcherServlet - Initializing Servlet 'dispatcherServlet'
+2022-10-10 00:01:22.492 [http-nio-8080-exec-1] INFO  org.springframework.web.servlet.DispatcherServlet - Completed initialization in 3 ms
+2022-10-10 00:03:04.158 [main] INFO  com.example.servicea.ServiceAApplication - Starting ServiceAApplication using Java 1.8.0_271 on OverwinddeMacBook-Pro.local with PID 41762 (/Volumes/Data/Workspace/lab/springcloud-alibaba-demo/skywalking/ServiceA/target/classes started by overwind in /Volumes/Data/Workspace/lab/springcloud-alibaba-demo)
+2022-10-10 00:03:04.162 [main] INFO  com.example.servicea.ServiceAApplication - No active profile set, falling back to 1 default profile: "default"
+2022-10-10 00:03:05.275 [main] INFO  o.springframework.cloud.context.scope.GenericScope - BeanFactory id=dcd2cf22-34f6-35da-8b4d-3fd5faca3420
+2022-10-10 00:03:05.740 [main] INFO  o.s.boot.web.embedded.tomcat.TomcatWebServer - Tomcat initialized with port(s): 8080 (http)
+2022-10-10 00:03:05.752 [main] INFO  org.apache.coyote.http11.Http11NioProtocol - Initializing ProtocolHandler ["http-nio-8080"]
+2022-10-10 00:03:05.753 [main] INFO  org.apache.catalina.core.StandardService - Starting service [Tomcat]
+2022-10-10 00:03:05.753 [main] INFO  org.apache.catalina.core.StandardEngine - Starting Servlet engine: [Apache Tomcat/9.0.65]
+2022-10-10 00:03:05.874 [main] INFO  o.a.c.core.ContainerBase.[Tomcat].[localhost].[/] - Initializing Spring embedded WebApplicationContext
+2022-10-10 00:03:05.874 [main] INFO  o.s.b.w.s.c.ServletWebServerApplicationContext - Root WebApplicationContext: initialization completed in 1639 ms
+2022-10-10 00:03:06.708 [main] INFO  org.apache.coyote.http11.Http11NioProtocol - Starting ProtocolHandler ["http-nio-8080"]
+2022-10-10 00:03:06.747 [main] INFO  o.s.boot.web.embedded.tomcat.TomcatWebServer - Tomcat started on port(s): 8080 (http) with context path ''
+2022-10-10 00:03:06.757 [main] INFO  com.example.servicea.ServiceAApplication - Started ServiceAApplication in 3.874 seconds (JVM running for 11.486)
+2022-10-10 00:03:15.779 [http-nio-8080-exec-1] INFO  o.a.c.core.ContainerBase.[Tomcat].[localhost].[/] - Initializing Spring DispatcherServlet 'dispatcherServlet'
+2022-10-10 00:03:15.780 [http-nio-8080-exec-1] INFO  org.springframework.web.servlet.DispatcherServlet - Initializing Servlet 'dispatcherServlet'
+2022-10-10 00:03:15.781 [http-nio-8080-exec-1] INFO  org.springframework.web.servlet.DispatcherServlet - Completed initialization in 1 ms
+2022-10-10 00:07:34.007 [main] INFO  com.example.servicea.ServiceAApplication - Starting ServiceAApplication using Java 1.8.0_271 on OverwinddeMacBook-Pro.local with PID 42105 (/Volumes/Data/Workspace/lab/springcloud-alibaba-demo/skywalking/ServiceA/target/classes started by overwind in /Volumes/Data/Workspace/lab/springcloud-alibaba-demo)
+2022-10-10 00:07:34.011 [main] INFO  com.example.servicea.ServiceAApplication - No active profile set, falling back to 1 default profile: "default"
+2022-10-10 00:07:35.303 [main] INFO  o.springframework.cloud.context.scope.GenericScope - BeanFactory id=dcd2cf22-34f6-35da-8b4d-3fd5faca3420
+2022-10-10 00:07:35.810 [main] INFO  o.s.boot.web.embedded.tomcat.TomcatWebServer - Tomcat initialized with port(s): 8080 (http)
+2022-10-10 00:07:35.824 [main] INFO  org.apache.coyote.http11.Http11NioProtocol - Initializing ProtocolHandler ["http-nio-8080"]
+2022-10-10 00:07:35.825 [main] INFO  org.apache.catalina.core.StandardService - Starting service [Tomcat]
+2022-10-10 00:07:35.826 [main] INFO  org.apache.catalina.core.StandardEngine - Starting Servlet engine: [Apache Tomcat/9.0.65]
+2022-10-10 00:07:36.003 [main] INFO  o.a.c.core.ContainerBase.[Tomcat].[localhost].[/] - Initializing Spring embedded WebApplicationContext
+2022-10-10 00:07:36.004 [main] INFO  o.s.b.w.s.c.ServletWebServerApplicationContext - Root WebApplicationContext: initialization completed in 1888 ms
+2022-10-10 00:07:36.804 [main] INFO  org.apache.coyote.http11.Http11NioProtocol - Starting ProtocolHandler ["http-nio-8080"]
+2022-10-10 00:07:36.840 [main] INFO  o.s.boot.web.embedded.tomcat.TomcatWebServer - Tomcat started on port(s): 8080 (http) with context path ''
+2022-10-10 00:07:36.851 [main] INFO  com.example.servicea.ServiceAApplication - Started ServiceAApplication in 4.528 seconds (JVM running for 16.167)
+2022-10-10 00:07:51.024 [http-nio-8080-exec-1] INFO  o.a.c.core.ContainerBase.[Tomcat].[localhost].[/] - Initializing Spring DispatcherServlet 'dispatcherServlet'
+2022-10-10 00:07:51.024 [http-nio-8080-exec-1] INFO  org.springframework.web.servlet.DispatcherServlet - Initializing Servlet 'dispatcherServlet'
+2022-10-10 00:07:51.025 [http-nio-8080-exec-1] INFO  org.springframework.web.servlet.DispatcherServlet - Completed initialization in 1 ms
+2022-10-10 00:09:51.347 [main] INFO  com.example.servicea.ServiceAApplication - Starting ServiceAApplication using Java 1.8.0_271 on OverwinddeMacBook-Pro.local with PID 42338 (/Volumes/Data/Workspace/lab/springcloud-alibaba-demo/skywalking/ServiceA/target/classes started by overwind in /Volumes/Data/Workspace/lab/springcloud-alibaba-demo)
+2022-10-10 00:09:51.349 [main] INFO  com.example.servicea.ServiceAApplication - No active profile set, falling back to 1 default profile: "default"
+2022-10-10 00:09:52.579 [main] INFO  o.springframework.cloud.context.scope.GenericScope - BeanFactory id=dcd2cf22-34f6-35da-8b4d-3fd5faca3420
+2022-10-10 00:09:53.066 [main] INFO  o.s.boot.web.embedded.tomcat.TomcatWebServer - Tomcat initialized with port(s): 8080 (http)
+2022-10-10 00:09:53.081 [main] INFO  org.apache.coyote.http11.Http11NioProtocol - Initializing ProtocolHandler ["http-nio-8080"]
+2022-10-10 00:09:53.082 [main] INFO  org.apache.catalina.core.StandardService - Starting service [Tomcat]
+2022-10-10 00:09:53.083 [main] INFO  org.apache.catalina.core.StandardEngine - Starting Servlet engine: [Apache Tomcat/9.0.65]
+2022-10-10 00:09:53.243 [main] INFO  o.a.c.core.ContainerBase.[Tomcat].[localhost].[/] - Initializing Spring embedded WebApplicationContext
+2022-10-10 00:09:53.244 [main] INFO  o.s.b.w.s.c.ServletWebServerApplicationContext - Root WebApplicationContext: initialization completed in 1813 ms
+2022-10-10 00:09:54.244 [main] INFO  org.apache.coyote.http11.Http11NioProtocol - Starting ProtocolHandler ["http-nio-8080"]
+2022-10-10 00:09:54.262 [main] INFO  o.s.boot.web.embedded.tomcat.TomcatWebServer - Tomcat started on port(s): 8080 (http) with context path ''
+2022-10-10 00:09:54.274 [main] INFO  com.example.servicea.ServiceAApplication - Started ServiceAApplication in 4.234 seconds (JVM running for 9.996)
+2022-10-10 00:10:02.810 [http-nio-8080-exec-1] INFO  o.a.c.core.ContainerBase.[Tomcat].[localhost].[/] - Initializing Spring DispatcherServlet 'dispatcherServlet'
+2022-10-10 00:10:02.811 [http-nio-8080-exec-1] INFO  org.springframework.web.servlet.DispatcherServlet - Initializing Servlet 'dispatcherServlet'
+2022-10-10 00:10:02.812 [http-nio-8080-exec-1] INFO  org.springframework.web.servlet.DispatcherServlet - Completed initialization in 1 ms
+2022-10-10 00:12:16.449 [main] INFO  com.example.servicea.ServiceAApplication - Starting ServiceAApplication using Java 1.8.0_271 on OverwinddeMacBook-Pro.local with PID 42541 (/Volumes/Data/Workspace/lab/springcloud-alibaba-demo/skywalking/ServiceA/target/classes started by overwind in /Volumes/Data/Workspace/lab/springcloud-alibaba-demo)
+2022-10-10 00:12:16.451 [main] INFO  com.example.servicea.ServiceAApplication - No active profile set, falling back to 1 default profile: "default"
+2022-10-10 00:12:17.553 [main] INFO  o.springframework.cloud.context.scope.GenericScope - BeanFactory id=dcd2cf22-34f6-35da-8b4d-3fd5faca3420
+2022-10-10 00:12:17.980 [main] INFO  o.s.boot.web.embedded.tomcat.TomcatWebServer - Tomcat initialized with port(s): 8080 (http)
+2022-10-10 00:12:17.994 [main] INFO  org.apache.coyote.http11.Http11NioProtocol - Initializing ProtocolHandler ["http-nio-8080"]
+2022-10-10 00:12:17.995 [main] INFO  org.apache.catalina.core.StandardService - Starting service [Tomcat]
+2022-10-10 00:12:17.996 [main] INFO  org.apache.catalina.core.StandardEngine - Starting Servlet engine: [Apache Tomcat/9.0.65]
+2022-10-10 00:12:18.155 [main] INFO  o.a.c.core.ContainerBase.[Tomcat].[localhost].[/] - Initializing Spring embedded WebApplicationContext
+2022-10-10 00:12:18.155 [main] INFO  o.s.b.w.s.c.ServletWebServerApplicationContext - Root WebApplicationContext: initialization completed in 1627 ms
+2022-10-10 00:12:19.011 [main] INFO  org.apache.coyote.http11.Http11NioProtocol - Starting ProtocolHandler ["http-nio-8080"]
+2022-10-10 00:12:19.027 [main] INFO  o.s.boot.web.embedded.tomcat.TomcatWebServer - Tomcat started on port(s): 8080 (http) with context path ''
+2022-10-10 00:12:19.039 [main] INFO  com.example.servicea.ServiceAApplication - Started ServiceAApplication in 3.726 seconds (JVM running for 8.016)
+2022-10-10 00:12:37.478 [http-nio-8080-exec-1] INFO  o.a.c.core.ContainerBase.[Tomcat].[localhost].[/] - Initializing Spring DispatcherServlet 'dispatcherServlet'
+2022-10-10 00:12:37.479 [http-nio-8080-exec-1] INFO  org.springframework.web.servlet.DispatcherServlet - Initializing Servlet 'dispatcherServlet'
+2022-10-10 00:12:37.480 [http-nio-8080-exec-1] INFO  org.springframework.web.servlet.DispatcherServlet - Completed initialization in 1 ms
+2022-10-10 00:17:11.579 [main] INFO  com.example.servicea.ServiceAApplication - Starting ServiceAApplication using Java 1.8.0_271 on OverwinddeMacBook-Pro.local with PID 42919 (/Volumes/Data/Workspace/lab/springcloud-alibaba-demo/skywalking/ServiceA/target/classes started by overwind in /Volumes/Data/Workspace/lab/springcloud-alibaba-demo)
+2022-10-10 00:17:11.581 [main] INFO  com.example.servicea.ServiceAApplication - No active profile set, falling back to 1 default profile: "default"
+2022-10-10 00:17:12.655 [main] INFO  o.springframework.cloud.context.scope.GenericScope - BeanFactory id=dcd2cf22-34f6-35da-8b4d-3fd5faca3420
+2022-10-10 00:17:12.989 [main] INFO  o.s.boot.web.embedded.tomcat.TomcatWebServer - Tomcat initialized with port(s): 8080 (http)
+2022-10-10 00:17:13.000 [main] INFO  org.apache.coyote.http11.Http11NioProtocol - Initializing ProtocolHandler ["http-nio-8080"]
+2022-10-10 00:17:13.002 [main] INFO  org.apache.catalina.core.StandardService - Starting service [Tomcat]
+2022-10-10 00:17:13.003 [main] INFO  org.apache.catalina.core.StandardEngine - Starting Servlet engine: [Apache Tomcat/9.0.65]
+2022-10-10 00:17:13.160 [main] INFO  o.a.c.core.ContainerBase.[Tomcat].[localhost].[/] - Initializing Spring embedded WebApplicationContext
+2022-10-10 00:17:13.160 [main] INFO  o.s.b.w.s.c.ServletWebServerApplicationContext - Root WebApplicationContext: initialization completed in 1496 ms
+2022-10-10 00:17:14.049 [main] INFO  org.apache.coyote.http11.Http11NioProtocol - Starting ProtocolHandler ["http-nio-8080"]
+2022-10-10 00:17:14.066 [main] INFO  o.s.boot.web.embedded.tomcat.TomcatWebServer - Tomcat started on port(s): 8080 (http) with context path ''
+2022-10-10 00:17:14.078 [main] INFO  com.example.servicea.ServiceAApplication - Started ServiceAApplication in 3.757 seconds (JVM running for 7.52)
+2022-10-10 00:36:23.081 [main] INFO  com.example.servicea.ServiceAApplication - Starting ServiceAApplication using Java 1.8.0_271 on OverwinddeMacBook-Pro.local with PID 44407 (/Volumes/Data/Workspace/lab/springcloud-alibaba-demo/skywalking/ServiceA/target/classes started by overwind in /Volumes/Data/Workspace/lab/springcloud-alibaba-demo)
+2022-10-10 00:36:23.084 [main] INFO  com.example.servicea.ServiceAApplication - No active profile set, falling back to 1 default profile: "default"
+2022-10-10 00:36:24.146 [main] INFO  o.springframework.cloud.context.scope.GenericScope - BeanFactory id=dcd2cf22-34f6-35da-8b4d-3fd5faca3420
+2022-10-10 00:36:24.671 [main] INFO  o.s.boot.web.embedded.tomcat.TomcatWebServer - Tomcat initialized with port(s): 8080 (http)
+2022-10-10 00:36:24.688 [main] INFO  org.apache.coyote.http11.Http11NioProtocol - Initializing ProtocolHandler ["http-nio-8080"]
+2022-10-10 00:36:24.689 [main] INFO  org.apache.catalina.core.StandardService - Starting service [Tomcat]
+2022-10-10 00:36:24.690 [main] INFO  org.apache.catalina.core.StandardEngine - Starting Servlet engine: [Apache Tomcat/9.0.65]
+2022-10-10 00:36:25.101 [main] INFO  o.a.c.core.ContainerBase.[Tomcat].[localhost].[/] - Initializing Spring embedded WebApplicationContext
+2022-10-10 00:36:25.102 [main] INFO  o.s.b.w.s.c.ServletWebServerApplicationContext - Root WebApplicationContext: initialization completed in 1945 ms
+2022-10-10 00:36:26.993 [main] INFO  org.apache.coyote.http11.Http11NioProtocol - Starting ProtocolHandler ["http-nio-8080"]
+2022-10-10 00:36:27.042 [main] INFO  o.s.boot.web.embedded.tomcat.TomcatWebServer - Tomcat started on port(s): 8080 (http) with context path ''
+2022-10-10 00:36:27.062 [main] INFO  com.example.servicea.ServiceAApplication - Started ServiceAApplication in 4.897 seconds (JVM running for 9.736)
+2022-10-10 00:36:56.865 [http-nio-8080-exec-1] INFO  o.a.c.core.ContainerBase.[Tomcat].[localhost].[/] - Initializing Spring DispatcherServlet 'dispatcherServlet'
+2022-10-10 00:36:56.866 [http-nio-8080-exec-1] INFO  org.springframework.web.servlet.DispatcherServlet - Initializing Servlet 'dispatcherServlet'
+2022-10-10 00:36:56.867 [http-nio-8080-exec-1] INFO  org.springframework.web.servlet.DispatcherServlet - Completed initialization in 1 ms
+2022-10-10 00:42:44.607 [main] INFO  com.example.servicec.ServiceCApplication - Starting ServiceCApplication using Java 1.8.0_271 on OverwinddeMacBook-Pro.local with PID 44905 (/Volumes/Data/Workspace/lab/springcloud-alibaba-demo/skywalking/ServiceC/target/classes started by overwind in /Volumes/Data/Workspace/lab/springcloud-alibaba-demo)
+2022-10-10 00:42:44.609 [main] INFO  com.example.servicec.ServiceCApplication - No active profile set, falling back to 1 default profile: "default"
+2022-10-10 00:42:46.058 [main] INFO  o.s.boot.web.embedded.tomcat.TomcatWebServer - Tomcat initialized with port(s): 8082 (http)
+2022-10-10 00:42:46.068 [main] INFO  org.apache.coyote.http11.Http11NioProtocol - Initializing ProtocolHandler ["http-nio-8082"]
+2022-10-10 00:42:46.069 [main] INFO  org.apache.catalina.core.StandardService - Starting service [Tomcat]
+2022-10-10 00:42:46.070 [main] INFO  org.apache.catalina.core.StandardEngine - Starting Servlet engine: [Apache Tomcat/9.0.65]
+2022-10-10 00:42:46.189 [main] INFO  o.a.c.core.ContainerBase.[Tomcat].[localhost].[/] - Initializing Spring embedded WebApplicationContext
+2022-10-10 00:42:46.190 [main] INFO  o.s.b.w.s.c.ServletWebServerApplicationContext - Root WebApplicationContext: initialization completed in 1475 ms
+2022-10-10 00:42:46.757 [main] INFO  org.apache.coyote.http11.Http11NioProtocol - Starting ProtocolHandler ["http-nio-8082"]
+2022-10-10 00:42:46.795 [main] INFO  o.s.boot.web.embedded.tomcat.TomcatWebServer - Tomcat started on port(s): 8082 (http) with context path ''
+2022-10-10 00:42:46.809 [main] INFO  com.example.servicec.ServiceCApplication - Started ServiceCApplication in 3.146 seconds (JVM running for 7.346)
+2022-10-10 00:43:00.587 [main] INFO  com.example.serviceb.ServiceBApplication - Starting ServiceBApplication using Java 1.8.0_271 on OverwinddeMacBook-Pro.local with PID 44927 (/Volumes/Data/Workspace/lab/springcloud-alibaba-demo/skywalking/ServiceB/target/classes started by overwind in /Volumes/Data/Workspace/lab/springcloud-alibaba-demo)
+2022-10-10 00:43:00.590 [main] INFO  com.example.serviceb.ServiceBApplication - No active profile set, falling back to 1 default profile: "default"
+2022-10-10 00:43:01.683 [main] INFO  o.springframework.cloud.context.scope.GenericScope - BeanFactory id=79a00a23-afd8-3471-a76f-39fd579a9213
+2022-10-10 00:43:02.194 [main] INFO  o.s.boot.web.embedded.tomcat.TomcatWebServer - Tomcat initialized with port(s): 8081 (http)
+2022-10-10 00:43:02.211 [main] INFO  org.apache.coyote.http11.Http11NioProtocol - Initializing ProtocolHandler ["http-nio-8081"]
+2022-10-10 00:43:02.225 [main] INFO  org.apache.catalina.core.StandardService - Starting service [Tomcat]
+2022-10-10 00:43:02.226 [main] INFO  org.apache.catalina.core.StandardEngine - Starting Servlet engine: [Apache Tomcat/9.0.65]
+2022-10-10 00:43:02.494 [main] INFO  o.a.c.core.ContainerBase.[Tomcat].[localhost].[/] - Initializing Spring embedded WebApplicationContext
+2022-10-10 00:43:02.494 [main] INFO  o.s.b.w.s.c.ServletWebServerApplicationContext - Root WebApplicationContext: initialization completed in 1829 ms
+2022-10-10 00:43:03.356 [main] INFO  org.apache.coyote.http11.Http11NioProtocol - Starting ProtocolHandler ["http-nio-8081"]
+2022-10-10 00:43:03.371 [main] INFO  o.s.boot.web.embedded.tomcat.TomcatWebServer - Tomcat started on port(s): 8081 (http) with context path ''
+2022-10-10 00:43:03.382 [main] INFO  com.example.serviceb.ServiceBApplication - Started ServiceBApplication in 3.859 seconds (JVM running for 7.953)
+2022-10-10 00:43:15.325 [main] INFO  com.example.servicea.ServiceAApplication - Starting ServiceAApplication using Java 1.8.0_271 on OverwinddeMacBook-Pro.local with PID 44946 (/Volumes/Data/Workspace/lab/springcloud-alibaba-demo/skywalking/ServiceA/target/classes started by overwind in /Volumes/Data/Workspace/lab/springcloud-alibaba-demo)
+2022-10-10 00:43:15.327 [main] INFO  com.example.servicea.ServiceAApplication - No active profile set, falling back to 1 default profile: "default"
+2022-10-10 00:43:16.491 [main] INFO  o.springframework.cloud.context.scope.GenericScope - BeanFactory id=dcd2cf22-34f6-35da-8b4d-3fd5faca3420
+2022-10-10 00:43:16.915 [main] INFO  o.s.boot.web.embedded.tomcat.TomcatWebServer - Tomcat initialized with port(s): 8080 (http)
+2022-10-10 00:43:16.931 [main] INFO  org.apache.coyote.http11.Http11NioProtocol - Initializing ProtocolHandler ["http-nio-8080"]
+2022-10-10 00:43:16.933 [main] INFO  org.apache.catalina.core.StandardService - Starting service [Tomcat]
+2022-10-10 00:43:16.933 [main] INFO  org.apache.catalina.core.StandardEngine - Starting Servlet engine: [Apache Tomcat/9.0.65]
+2022-10-10 00:43:17.086 [main] INFO  o.a.c.core.ContainerBase.[Tomcat].[localhost].[/] - Initializing Spring embedded WebApplicationContext
+2022-10-10 00:43:17.087 [main] INFO  o.s.b.w.s.c.ServletWebServerApplicationContext - Root WebApplicationContext: initialization completed in 1661 ms
+2022-10-10 00:43:17.850 [main] INFO  org.apache.coyote.http11.Http11NioProtocol - Starting ProtocolHandler ["http-nio-8080"]
+2022-10-10 00:43:17.868 [main] INFO  o.s.boot.web.embedded.tomcat.TomcatWebServer - Tomcat started on port(s): 8080 (http) with context path ''
+2022-10-10 00:43:17.882 [main] INFO  com.example.servicea.ServiceAApplication - Started ServiceAApplication in 3.552 seconds (JVM running for 8.865)
+2022-10-10 00:43:37.646 [http-nio-8080-exec-1] INFO  o.a.c.core.ContainerBase.[Tomcat].[localhost].[/] - Initializing Spring DispatcherServlet 'dispatcherServlet'
+2022-10-10 00:43:37.647 [http-nio-8080-exec-1] INFO  org.springframework.web.servlet.DispatcherServlet - Initializing Servlet 'dispatcherServlet'
+2022-10-10 00:43:37.648 [http-nio-8080-exec-1] INFO  org.springframework.web.servlet.DispatcherServlet - Completed initialization in 1 ms
+2022-10-10 00:43:38.139 [http-nio-8081-exec-1] INFO  o.a.c.core.ContainerBase.[Tomcat].[localhost].[/] - Initializing Spring DispatcherServlet 'dispatcherServlet'
+2022-10-10 00:43:38.140 [http-nio-8081-exec-1] INFO  org.springframework.web.servlet.DispatcherServlet - Initializing Servlet 'dispatcherServlet'
+2022-10-10 00:43:38.145 [http-nio-8081-exec-1] INFO  org.springframework.web.servlet.DispatcherServlet - Completed initialization in 4 ms
+2022-10-10 00:43:38.607 [http-nio-8082-exec-1] INFO  o.a.c.core.ContainerBase.[Tomcat].[localhost].[/] - Initializing Spring DispatcherServlet 'dispatcherServlet'
+2022-10-10 00:43:38.611 [http-nio-8082-exec-1] INFO  org.springframework.web.servlet.DispatcherServlet - Initializing Servlet 'dispatcherServlet'
+2022-10-10 00:43:38.633 [http-nio-8082-exec-1] INFO  org.springframework.web.servlet.DispatcherServlet - Completed initialization in 22 ms
+2022-10-10 12:58:23.091 [main] INFO  com.example.servicec.ServiceCApplication - Starting ServiceCApplication using Java 1.8.0_271 on OverwinddeMacBook-Pro.local with PID 55149 (/Volumes/Data/Workspace/lab/springcloud-alibaba-demo/skywalking/ServiceC/target/classes started by overwind in /Volumes/Data/Workspace/lab/springcloud-alibaba-demo)
+2022-10-10 12:58:23.092 [main] INFO  com.example.servicec.ServiceCApplication - No active profile set, falling back to 1 default profile: "default"
+2022-10-10 12:58:24.688 [main] INFO  o.s.boot.web.embedded.tomcat.TomcatWebServer - Tomcat initialized with port(s): 8082 (http)
+2022-10-10 12:58:24.699 [main] INFO  org.apache.coyote.http11.Http11NioProtocol - Initializing ProtocolHandler ["http-nio-8082"]
+2022-10-10 12:58:24.700 [main] INFO  org.apache.catalina.core.StandardService - Starting service [Tomcat]
+2022-10-10 12:58:24.701 [main] INFO  org.apache.catalina.core.StandardEngine - Starting Servlet engine: [Apache Tomcat/9.0.65]
+2022-10-10 12:58:24.829 [main] INFO  o.a.c.core.ContainerBase.[Tomcat].[localhost].[/] - Initializing Spring embedded WebApplicationContext
+2022-10-10 12:58:24.829 [main] INFO  o.s.b.w.s.c.ServletWebServerApplicationContext - Root WebApplicationContext: initialization completed in 1664 ms
+2022-10-10 12:58:25.338 [main] INFO  org.apache.coyote.http11.Http11NioProtocol - Starting ProtocolHandler ["http-nio-8082"]
+2022-10-10 12:58:25.357 [main] INFO  o.s.boot.web.embedded.tomcat.TomcatWebServer - Tomcat started on port(s): 8082 (http) with context path ''
+2022-10-10 12:58:25.371 [main] INFO  com.example.servicec.ServiceCApplication - Started ServiceCApplication in 3.213 seconds (JVM running for 7.236)
+2022-10-10 12:58:37.709 [main] INFO  com.example.serviceb.ServiceBApplication - Starting ServiceBApplication using Java 1.8.0_271 on OverwinddeMacBook-Pro.local with PID 55168 (/Volumes/Data/Workspace/lab/springcloud-alibaba-demo/skywalking/ServiceB/target/classes started by overwind in /Volumes/Data/Workspace/lab/springcloud-alibaba-demo)
+2022-10-10 12:58:37.710 [main] INFO  com.example.serviceb.ServiceBApplication - No active profile set, falling back to 1 default profile: "default"
+2022-10-10 12:58:38.732 [main] INFO  o.springframework.cloud.context.scope.GenericScope - BeanFactory id=79a00a23-afd8-3471-a76f-39fd579a9213
+2022-10-10 12:58:39.159 [main] INFO  o.s.boot.web.embedded.tomcat.TomcatWebServer - Tomcat initialized with port(s): 8081 (http)
+2022-10-10 12:58:39.183 [main] INFO  org.apache.coyote.http11.Http11NioProtocol - Initializing ProtocolHandler ["http-nio-8081"]
+2022-10-10 12:58:39.184 [main] INFO  org.apache.catalina.core.StandardService - Starting service [Tomcat]
+2022-10-10 12:58:39.184 [main] INFO  org.apache.catalina.core.StandardEngine - Starting Servlet engine: [Apache Tomcat/9.0.65]
+2022-10-10 12:58:39.409 [main] INFO  o.a.c.core.ContainerBase.[Tomcat].[localhost].[/] - Initializing Spring embedded WebApplicationContext
+2022-10-10 12:58:39.409 [main] INFO  o.s.b.w.s.c.ServletWebServerApplicationContext - Root WebApplicationContext: initialization completed in 1634 ms
+2022-10-10 12:58:40.411 [main] INFO  org.apache.coyote.http11.Http11NioProtocol - Starting ProtocolHandler ["http-nio-8081"]
+2022-10-10 12:58:40.435 [main] INFO  o.s.boot.web.embedded.tomcat.TomcatWebServer - Tomcat started on port(s): 8081 (http) with context path ''
+2022-10-10 12:58:40.446 [main] INFO  com.example.serviceb.ServiceBApplication - Started ServiceBApplication in 3.71 seconds (JVM running for 9.039)
+2022-10-10 12:59:17.249 [main] INFO  com.example.servicea.ServiceAApplication - Starting ServiceAApplication using Java 1.8.0_271 on OverwinddeMacBook-Pro.local with PID 55228 (/Volumes/Data/Workspace/lab/springcloud-alibaba-demo/skywalking/ServiceA/target/classes started by overwind in /Volumes/Data/Workspace/lab/springcloud-alibaba-demo)
+2022-10-10 12:59:17.253 [main] INFO  com.example.servicea.ServiceAApplication - No active profile set, falling back to 1 default profile: "default"
+2022-10-10 12:59:18.418 [main] INFO  o.springframework.cloud.context.scope.GenericScope - BeanFactory id=dcd2cf22-34f6-35da-8b4d-3fd5faca3420
+2022-10-10 12:59:18.830 [main] INFO  o.s.boot.web.embedded.tomcat.TomcatWebServer - Tomcat initialized with port(s): 8080 (http)
+2022-10-10 12:59:18.840 [main] INFO  org.apache.coyote.http11.Http11NioProtocol - Initializing ProtocolHandler ["http-nio-8080"]
+2022-10-10 12:59:18.842 [main] INFO  org.apache.catalina.core.StandardService - Starting service [Tomcat]
+2022-10-10 12:59:18.842 [main] INFO  org.apache.catalina.core.StandardEngine - Starting Servlet engine: [Apache Tomcat/9.0.65]
+2022-10-10 12:59:18.965 [main] INFO  o.a.c.core.ContainerBase.[Tomcat].[localhost].[/] - Initializing Spring embedded WebApplicationContext
+2022-10-10 12:59:18.966 [main] INFO  o.s.b.w.s.c.ServletWebServerApplicationContext - Root WebApplicationContext: initialization completed in 1640 ms
+2022-10-10 12:59:19.733 [main] INFO  org.apache.coyote.http11.Http11NioProtocol - Starting ProtocolHandler ["http-nio-8080"]
+2022-10-10 12:59:19.768 [main] INFO  o.s.boot.web.embedded.tomcat.TomcatWebServer - Tomcat started on port(s): 8080 (http) with context path ''
+2022-10-10 12:59:19.779 [main] INFO  com.example.servicea.ServiceAApplication - Started ServiceAApplication in 3.732 seconds (JVM running for 10.807)
+2022-10-10 12:59:39.801 [http-nio-8080-exec-1] INFO  o.a.c.core.ContainerBase.[Tomcat].[localhost].[/] - Initializing Spring DispatcherServlet 'dispatcherServlet'
+2022-10-10 12:59:39.802 [http-nio-8080-exec-1] INFO  org.springframework.web.servlet.DispatcherServlet - Initializing Servlet 'dispatcherServlet'
+2022-10-10 12:59:39.803 [http-nio-8080-exec-1] INFO  org.springframework.web.servlet.DispatcherServlet - Completed initialization in 1 ms
+2022-10-10 12:59:40.276 [http-nio-8081-exec-1] INFO  o.a.c.core.ContainerBase.[Tomcat].[localhost].[/] - Initializing Spring DispatcherServlet 'dispatcherServlet'
+2022-10-10 12:59:40.277 [http-nio-8081-exec-1] INFO  org.springframework.web.servlet.DispatcherServlet - Initializing Servlet 'dispatcherServlet'
+2022-10-10 12:59:40.280 [http-nio-8081-exec-1] INFO  org.springframework.web.servlet.DispatcherServlet - Completed initialization in 3 ms
+2022-10-10 12:59:40.787 [http-nio-8082-exec-1] INFO  o.a.c.core.ContainerBase.[Tomcat].[localhost].[/] - Initializing Spring DispatcherServlet 'dispatcherServlet'
+2022-10-10 12:59:40.788 [http-nio-8082-exec-1] INFO  org.springframework.web.servlet.DispatcherServlet - Initializing Servlet 'dispatcherServlet'
+2022-10-10 12:59:40.805 [http-nio-8082-exec-1] INFO  org.springframework.web.servlet.DispatcherServlet - Completed initialization in 17 ms
+2022-10-10 13:01:17.533 [main] INFO  com.example.servicec.ServiceCApplication - Starting ServiceCApplication using Java 1.8.0_271 on OverwinddeMacBook-Pro.local with PID 55387 (/Volumes/Data/Workspace/lab/springcloud-alibaba-demo/skywalking/ServiceC/target/classes started by overwind in /Volumes/Data/Workspace/lab/springcloud-alibaba-demo)
+2022-10-10 13:01:17.535 [main] INFO  com.example.servicec.ServiceCApplication - No active profile set, falling back to 1 default profile: "default"
+2022-10-10 13:01:19.021 [main] INFO  o.s.boot.web.embedded.tomcat.TomcatWebServer - Tomcat initialized with port(s): 8082 (http)
+2022-10-10 13:01:19.033 [main] INFO  org.apache.coyote.http11.Http11NioProtocol - Initializing ProtocolHandler ["http-nio-8082"]
+2022-10-10 13:01:19.034 [main] INFO  org.apache.catalina.core.StandardService - Starting service [Tomcat]
+2022-10-10 13:01:19.035 [main] INFO  org.apache.catalina.core.StandardEngine - Starting Servlet engine: [Apache Tomcat/9.0.65]
+2022-10-10 13:01:19.176 [main] INFO  o.a.c.core.ContainerBase.[Tomcat].[localhost].[/] - Initializing Spring embedded WebApplicationContext
+2022-10-10 13:01:19.176 [main] INFO  o.s.b.w.s.c.ServletWebServerApplicationContext - Root WebApplicationContext: initialization completed in 1555 ms
+2022-10-10 13:01:19.787 [main] INFO  org.apache.coyote.http11.Http11NioProtocol - Starting ProtocolHandler ["http-nio-8082"]
+2022-10-10 13:01:19.803 [main] INFO  o.s.boot.web.embedded.tomcat.TomcatWebServer - Tomcat started on port(s): 8082 (http) with context path ''
+2022-10-10 13:01:19.816 [main] INFO  com.example.servicec.ServiceCApplication - Started ServiceCApplication in 3.203 seconds (JVM running for 7.343)
+2022-10-10 13:01:31.170 [main] INFO  com.example.serviceb.ServiceBApplication - Starting ServiceBApplication using Java 1.8.0_271 on OverwinddeMacBook-Pro.local with PID 55404 (/Volumes/Data/Workspace/lab/springcloud-alibaba-demo/skywalking/ServiceB/target/classes started by overwind in /Volumes/Data/Workspace/lab/springcloud-alibaba-demo)
+2022-10-10 13:01:31.171 [main] INFO  com.example.serviceb.ServiceBApplication - No active profile set, falling back to 1 default profile: "default"
+2022-10-10 13:01:32.257 [main] INFO  o.springframework.cloud.context.scope.GenericScope - BeanFactory id=79a00a23-afd8-3471-a76f-39fd579a9213
+2022-10-10 13:01:32.684 [main] INFO  o.s.boot.web.embedded.tomcat.TomcatWebServer - Tomcat initialized with port(s): 8081 (http)
+2022-10-10 13:01:32.696 [main] INFO  org.apache.coyote.http11.Http11NioProtocol - Initializing ProtocolHandler ["http-nio-8081"]
+2022-10-10 13:01:32.698 [main] INFO  org.apache.catalina.core.StandardService - Starting service [Tomcat]
+2022-10-10 13:01:32.698 [main] INFO  org.apache.catalina.core.StandardEngine - Starting Servlet engine: [Apache Tomcat/9.0.65]
+2022-10-10 13:01:32.833 [main] INFO  o.a.c.core.ContainerBase.[Tomcat].[localhost].[/] - Initializing Spring embedded WebApplicationContext
+2022-10-10 13:01:32.833 [main] INFO  o.s.b.w.s.c.ServletWebServerApplicationContext - Root WebApplicationContext: initialization completed in 1593 ms
+2022-10-10 13:01:33.663 [main] INFO  org.apache.coyote.http11.Http11NioProtocol - Starting ProtocolHandler ["http-nio-8081"]
+2022-10-10 13:01:33.680 [main] INFO  o.s.boot.web.embedded.tomcat.TomcatWebServer - Tomcat started on port(s): 8081 (http) with context path ''
+2022-10-10 13:01:33.690 [main] INFO  com.example.serviceb.ServiceBApplication - Started ServiceBApplication in 3.516 seconds (JVM running for 7.666)
+2022-10-10 13:01:44.572 [main] INFO  com.example.servicea.ServiceAApplication - Starting ServiceAApplication using Java 1.8.0_271 on OverwinddeMacBook-Pro.local with PID 55424 (/Volumes/Data/Workspace/lab/springcloud-alibaba-demo/skywalking/ServiceA/target/classes started by overwind in /Volumes/Data/Workspace/lab/springcloud-alibaba-demo)
+2022-10-10 13:01:44.574 [main] INFO  com.example.servicea.ServiceAApplication - No active profile set, falling back to 1 default profile: "default"
+2022-10-10 13:01:45.648 [main] INFO  o.springframework.cloud.context.scope.GenericScope - BeanFactory id=dcd2cf22-34f6-35da-8b4d-3fd5faca3420
+2022-10-10 13:01:46.148 [main] INFO  o.s.boot.web.embedded.tomcat.TomcatWebServer - Tomcat initialized with port(s): 8080 (http)
+2022-10-10 13:01:46.159 [main] INFO  org.apache.coyote.http11.Http11NioProtocol - Initializing ProtocolHandler ["http-nio-8080"]
+2022-10-10 13:01:46.161 [main] INFO  org.apache.catalina.core.StandardService - Starting service [Tomcat]
+2022-10-10 13:01:46.162 [main] INFO  org.apache.catalina.core.StandardEngine - Starting Servlet engine: [Apache Tomcat/9.0.65]
+2022-10-10 13:01:46.306 [main] INFO  o.a.c.core.ContainerBase.[Tomcat].[localhost].[/] - Initializing Spring embedded WebApplicationContext
+2022-10-10 13:01:46.306 [main] INFO  o.s.b.w.s.c.ServletWebServerApplicationContext - Root WebApplicationContext: initialization completed in 1632 ms
+2022-10-10 13:01:46.995 [main] INFO  org.apache.coyote.http11.Http11NioProtocol - Starting ProtocolHandler ["http-nio-8080"]
+2022-10-10 13:01:47.014 [main] INFO  o.s.boot.web.embedded.tomcat.TomcatWebServer - Tomcat started on port(s): 8080 (http) with context path ''
+2022-10-10 13:01:47.024 [main] INFO  com.example.servicea.ServiceAApplication - Started ServiceAApplication in 3.459 seconds (JVM running for 7.663)
+2022-10-10 13:01:56.920 [http-nio-8080-exec-1] INFO  o.a.c.core.ContainerBase.[Tomcat].[localhost].[/] - Initializing Spring DispatcherServlet 'dispatcherServlet'
+2022-10-10 13:01:56.921 [http-nio-8080-exec-1] INFO  org.springframework.web.servlet.DispatcherServlet - Initializing Servlet 'dispatcherServlet'
+2022-10-10 13:01:56.922 [http-nio-8080-exec-1] INFO  org.springframework.web.servlet.DispatcherServlet - Completed initialization in 1 ms
+2022-10-10 13:01:57.395 [http-nio-8081-exec-1] INFO  o.a.c.core.ContainerBase.[Tomcat].[localhost].[/] - Initializing Spring DispatcherServlet 'dispatcherServlet'
+2022-10-10 13:01:57.397 [http-nio-8081-exec-1] INFO  org.springframework.web.servlet.DispatcherServlet - Initializing Servlet 'dispatcherServlet'
+2022-10-10 13:01:57.399 [http-nio-8081-exec-1] INFO  org.springframework.web.servlet.DispatcherServlet - Completed initialization in 2 ms
+2022-10-10 13:01:57.772 [http-nio-8082-exec-1] INFO  o.a.c.core.ContainerBase.[Tomcat].[localhost].[/] - Initializing Spring DispatcherServlet 'dispatcherServlet'
+2022-10-10 13:01:57.773 [http-nio-8082-exec-1] INFO  org.springframework.web.servlet.DispatcherServlet - Initializing Servlet 'dispatcherServlet'
+2022-10-10 13:01:57.775 [http-nio-8082-exec-1] INFO  org.springframework.web.servlet.DispatcherServlet - Completed initialization in 2 ms
+2022-10-10 13:21:51.797 [main] INFO  com.example.servicec.ServiceCApplication - Starting ServiceCApplication using Java 1.8.0_271 on OverwinddeMacBook-Pro.local with PID 56991 (/Volumes/Data/Workspace/lab/springcloud-alibaba-demo/skywalking/ServiceC/target/classes started by overwind in /Volumes/Data/Workspace/lab/springcloud-alibaba-demo)
+2022-10-10 13:21:51.799 [main] INFO  com.example.servicec.ServiceCApplication - No active profile set, falling back to 1 default profile: "default"
+2022-10-10 13:21:53.184 [main] INFO  o.s.boot.web.embedded.tomcat.TomcatWebServer - Tomcat initialized with port(s): 8082 (http)
+2022-10-10 13:21:53.197 [main] INFO  org.apache.coyote.http11.Http11NioProtocol - Initializing ProtocolHandler ["http-nio-8082"]
+2022-10-10 13:21:53.198 [main] INFO  org.apache.catalina.core.StandardService - Starting service [Tomcat]
+2022-10-10 13:21:53.199 [main] INFO  org.apache.catalina.core.StandardEngine - Starting Servlet engine: [Apache Tomcat/9.0.65]
+2022-10-10 13:21:53.355 [main] INFO  o.a.c.core.ContainerBase.[Tomcat].[localhost].[/] - Initializing Spring embedded WebApplicationContext
+2022-10-10 13:21:53.356 [main] INFO  o.s.b.w.s.c.ServletWebServerApplicationContext - Root WebApplicationContext: initialization completed in 1460 ms
+2022-10-10 13:21:53.970 [main] INFO  org.apache.coyote.http11.Http11NioProtocol - Starting ProtocolHandler ["http-nio-8082"]
+2022-10-10 13:21:53.984 [main] INFO  o.s.boot.web.embedded.tomcat.TomcatWebServer - Tomcat started on port(s): 8082 (http) with context path ''
+2022-10-10 13:21:53.997 [main] INFO  com.example.servicec.ServiceCApplication - Started ServiceCApplication in 3.188 seconds (JVM running for 7.557)
+2022-10-10 13:22:14.935 [main] INFO  com.example.serviceb.ServiceBApplication - Starting ServiceBApplication using Java 1.8.0_271 on OverwinddeMacBook-Pro.local with PID 57023 (/Volumes/Data/Workspace/lab/springcloud-alibaba-demo/skywalking/ServiceB/target/classes started by overwind in /Volumes/Data/Workspace/lab/springcloud-alibaba-demo)
+2022-10-10 13:22:14.936 [main] INFO  com.example.serviceb.ServiceBApplication - No active profile set, falling back to 1 default profile: "default"
+2022-10-10 13:22:16.031 [main] INFO  o.springframework.cloud.context.scope.GenericScope - BeanFactory id=79a00a23-afd8-3471-a76f-39fd579a9213
+2022-10-10 13:22:16.475 [main] INFO  o.s.boot.web.embedded.tomcat.TomcatWebServer - Tomcat initialized with port(s): 8081 (http)
+2022-10-10 13:22:16.490 [main] INFO  org.apache.coyote.http11.Http11NioProtocol - Initializing ProtocolHandler ["http-nio-8081"]
+2022-10-10 13:22:16.491 [main] INFO  org.apache.catalina.core.StandardService - Starting service [Tomcat]
+2022-10-10 13:22:16.491 [main] INFO  org.apache.catalina.core.StandardEngine - Starting Servlet engine: [Apache Tomcat/9.0.65]
+2022-10-10 13:22:16.648 [main] INFO  o.a.c.core.ContainerBase.[Tomcat].[localhost].[/] - Initializing Spring embedded WebApplicationContext
+2022-10-10 13:22:16.648 [main] INFO  o.s.b.w.s.c.ServletWebServerApplicationContext - Root WebApplicationContext: initialization completed in 1650 ms
+2022-10-10 13:22:17.532 [main] INFO  org.apache.coyote.http11.Http11NioProtocol - Starting ProtocolHandler ["http-nio-8081"]
+2022-10-10 13:22:17.548 [main] INFO  o.s.boot.web.embedded.tomcat.TomcatWebServer - Tomcat started on port(s): 8081 (http) with context path ''
+2022-10-10 13:22:17.558 [main] INFO  com.example.serviceb.ServiceBApplication - Started ServiceBApplication in 3.651 seconds (JVM running for 7.746)
+2022-10-10 13:22:30.682 [main] INFO  com.example.servicea.ServiceAApplication - Starting ServiceAApplication using Java 1.8.0_271 on OverwinddeMacBook-Pro.local with PID 57046 (/Volumes/Data/Workspace/lab/springcloud-alibaba-demo/skywalking/ServiceA/target/classes started by overwind in /Volumes/Data/Workspace/lab/springcloud-alibaba-demo)
+2022-10-10 13:22:30.685 [main] INFO  com.example.servicea.ServiceAApplication - No active profile set, falling back to 1 default profile: "default"
+2022-10-10 13:22:31.759 [main] INFO  o.springframework.cloud.context.scope.GenericScope - BeanFactory id=dcd2cf22-34f6-35da-8b4d-3fd5faca3420
+2022-10-10 13:22:32.185 [main] INFO  o.s.boot.web.embedded.tomcat.TomcatWebServer - Tomcat initialized with port(s): 8080 (http)
+2022-10-10 13:22:32.196 [main] INFO  org.apache.coyote.http11.Http11NioProtocol - Initializing ProtocolHandler ["http-nio-8080"]
+2022-10-10 13:22:32.198 [main] INFO  org.apache.catalina.core.StandardService - Starting service [Tomcat]
+2022-10-10 13:22:32.198 [main] INFO  org.apache.catalina.core.StandardEngine - Starting Servlet engine: [Apache Tomcat/9.0.65]
+2022-10-10 13:22:32.334 [main] INFO  o.a.c.core.ContainerBase.[Tomcat].[localhost].[/] - Initializing Spring embedded WebApplicationContext
+2022-10-10 13:22:32.334 [main] INFO  o.s.b.w.s.c.ServletWebServerApplicationContext - Root WebApplicationContext: initialization completed in 1578 ms
+2022-10-10 13:22:33.117 [main] INFO  org.apache.coyote.http11.Http11NioProtocol - Starting ProtocolHandler ["http-nio-8080"]
+2022-10-10 13:22:33.132 [main] INFO  o.s.boot.web.embedded.tomcat.TomcatWebServer - Tomcat started on port(s): 8080 (http) with context path ''
+2022-10-10 13:22:33.142 [main] INFO  com.example.servicea.ServiceAApplication - Started ServiceAApplication in 3.463 seconds (JVM running for 7.604)
+2022-10-10 13:23:45.362 [http-nio-8080-exec-1] INFO  o.a.c.core.ContainerBase.[Tomcat].[localhost].[/] - Initializing Spring DispatcherServlet 'dispatcherServlet'
+2022-10-10 13:23:45.364 [http-nio-8080-exec-1] INFO  org.springframework.web.servlet.DispatcherServlet - Initializing Servlet 'dispatcherServlet'
+2022-10-10 13:23:45.369 [http-nio-8080-exec-1] INFO  org.springframework.web.servlet.DispatcherServlet - Completed initialization in 4 ms
+2022-10-10 13:23:45.842 [http-nio-8081-exec-1] INFO  o.a.c.core.ContainerBase.[Tomcat].[localhost].[/] - Initializing Spring DispatcherServlet 'dispatcherServlet'
+2022-10-10 13:23:45.842 [http-nio-8081-exec-1] INFO  org.springframework.web.servlet.DispatcherServlet - Initializing Servlet 'dispatcherServlet'
+2022-10-10 13:23:45.844 [http-nio-8081-exec-1] INFO  org.springframework.web.servlet.DispatcherServlet - Completed initialization in 2 ms
+2022-10-10 13:23:46.219 [http-nio-8082-exec-1] INFO  o.a.c.core.ContainerBase.[Tomcat].[localhost].[/] - Initializing Spring DispatcherServlet 'dispatcherServlet'
+2022-10-10 13:23:46.220 [http-nio-8082-exec-1] INFO  org.springframework.web.servlet.DispatcherServlet - Initializing Servlet 'dispatcherServlet'
+2022-10-10 13:23:46.225 [http-nio-8082-exec-1] INFO  org.springframework.web.servlet.DispatcherServlet - Completed initialization in 4 ms

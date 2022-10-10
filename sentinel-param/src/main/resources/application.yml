@@ -1,0 +1,15 @@
+server:
+  port: 10801
+  servlet:
+    context-path: /api/member
+
+spring:
+  application:
+    name: member-service
+
+  cloud:
+    sentinel:
+      eager: true
+      transport:
+        port: 8719
+        dashboard: localhost:8858
