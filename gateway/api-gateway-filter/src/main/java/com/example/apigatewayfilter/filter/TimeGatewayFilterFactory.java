@@ -39,7 +39,9 @@ public class TimeGatewayFilterFactory extends AbstractGatewayFilterFactory<TimeG
                     // post逻辑
                     Long startTime = exchange.getAttribute(BEGIN_TIME);
                     if (startTime != null) {
-                        System.out.println(exchange.getRequest().getURI() + " 请求耗时: " + (System.currentTimeMillis() - startTime) + "ms");
+                        System.out.println(exchange.getRequest().getURI() +
+                                " 请求耗时: " +
+                                (System.currentTimeMillis() - startTime) + "ms");
                     }
                 }));
             }

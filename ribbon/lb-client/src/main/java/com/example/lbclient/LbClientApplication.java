@@ -17,7 +17,7 @@ public class LbClientApplication {
     }
 
     @Bean
-    @LoadBalanced
+    //@LoadBalanced
     public RestTemplate getInstance(){
         return new RestTemplate();
     }
